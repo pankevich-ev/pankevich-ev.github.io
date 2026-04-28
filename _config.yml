@@ -23,7 +23,7 @@ repository               : "pankevich-ev/pankevich-ev.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Eugenia Pankevich"
   pronouns         : # example: "she/her"  
   bio              : "Wissenschaftlerin und Projektmanagerin in Krebstherapie"
